@@ -1,0 +1,21 @@
+{
+  "name": "ag-grid-bower",
+  "authors": [
+    "Sean Landsman <sean@thelandsmans.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "ag-grid-enterprise": "25.0.0"
+  }
+}
